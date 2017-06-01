@@ -3,7 +3,7 @@
 Angular 4 environment ready for use and deployment.
 Clone and run npm install.
 
-## Run project in devmode
+## Run Project in Devmode
 
 ~~~
 npm run dev
@@ -12,7 +12,8 @@ npm run dev
 ## Deploying to Heroku
 
 Just init a Heroku repo with node.js buildpack and push this project.
-IMPORTANT: In the Heroku server config vars, you need to set NPM_CONFIG_PRODUCTION to false.
+
+*IMPORTANT:* In the Heroku server config vars, you need to set NPM_CONFIG_PRODUCTION to false.
 
 <!-- This project was generated with [angular-cli](https://github.com/angular/angular-cli)
 
