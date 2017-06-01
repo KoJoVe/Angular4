@@ -1,6 +1,20 @@
 # Angular4
 
-This project was generated with [angular-cli](https://github.com/angular/angular-cli)
+Angular 4 environment ready for use and deployment.
+Clone and run npm install.
+
+## Run project in devmode
+
+~~~
+npm run dev
+~~~
+
+## Deploying to Heroku
+
+Just init a Heroku repo with node.js buildpack and push this project.
+IMPORTANT: In the Heroku server config vars, you need to set NPM_CONFIG_PRODUCTION to false.
+
+<!-- This project was generated with [angular-cli](https://github.com/angular/angular-cli)
 
 ## Development server
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
@@ -30,4 +44,4 @@ Run `ng github-pages:deploy` to deploy to GitHub Pages.
 
 To get more help on the `angular-cli` use `ng help` or go check out the [Angular-CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
-- Nao ha possibilidade de se cadastrar diretamente. Medicos so podem se cadastrar via indicação. Se ja for cadastrado, ele ganha mais um "ponto".
+- Nao ha possibilidade de se cadastrar diretamente. Medicos so podem se cadastrar via indicação. Se ja for cadastrado, ele ganha mais um "ponto". -->
