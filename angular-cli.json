@@ -1,7 +1,7 @@
 {
   "project": {
-    "version": "alpha-0.1",
-    "name": "exchange"
+    "version": "0.0.0",
+    "name": "angular4"
   },
   "apps": [
     {

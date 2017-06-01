@@ -11,16 +11,4 @@ export class MainPage {
 
   constructor(private location: Location, private router: Router) { }
 
-  goToLogin(): void {
-    this.router.navigate(['/login']);
-  }
-
-  goToMedic(): void {
-    this.router.navigate(['/medic']);
-  }
-
-  goToRegister(): void {
-    this.router.navigate(['/register']);
-  }
-
 }
