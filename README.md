@@ -13,7 +13,13 @@ npm run dev
 
 Just init a Heroku repo with node.js buildpack and push this project.
 
-*IMPORTANT:* In the Heroku server config vars, you need to set NPM_CONFIG_PRODUCTION to false.
+**IMPORTANT:** In the Heroku server config vars, you need to set NPM_CONFIG_PRODUCTION to false.
+
+## Todo
+
+* Upgrade Angular Material
+* Remove Bootstrap from assets and install it as a node module
+* Keep an eye out for dependencies updates
 
 <!-- This project was generated with [angular-cli](https://github.com/angular/angular-cli)
 
